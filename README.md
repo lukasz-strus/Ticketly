@@ -1,4 +1,4 @@
-# Projekt ATUZ
+# Projekt Ticketly
 
 ## 🎯 Cel projektu
 Celem projektu było stworzenie intuicyjnej i bezpiecznej witryny internetowej umożliwiającej użytkownikom zakup biletów na wydarzenia kulturalne, z pełną obsługą ról (administrator, użytkownik zalogowany i niezalogowany), zarządzaniem pulami biletów i historią zakupów.
